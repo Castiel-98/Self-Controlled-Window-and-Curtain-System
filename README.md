@@ -1,9 +1,10 @@
 # Self-Controlled-Window-and-Curtain-System
 This is opened for the code submission of CPS 4951 W04.   
 <br>
-- Lu Zhen    
-- - JIn Hao    
-- - Wan Zhihao   
--  - Wang jingyu.      
--  - JIng Hanming
+Group Member: 
+Lu Zhen    
+JIn Hao    
+Wan Zhihao    
+Wang jingyu.     
+JIng Hanming
   
