@@ -17,3 +17,5 @@ JIng Hanming
 
 2. Defined the initial state of Curtain (the top), and when light sensor got light signals then the curtain will get down
 
+![5/6](https://github.com/Self-Controlled-Window-and-Curtain/Self-Controlled-Window-and-Curtain-System/blob/main/Image/5:6:Prototype.jpg)
+
