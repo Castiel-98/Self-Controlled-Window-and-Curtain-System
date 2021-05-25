@@ -1,0 +1,7 @@
+SimpleWebSocketServer
+zeroconf==0.26.3
+paho-mqtt
+requests
+dbus-python
+pygobject
+demjson
